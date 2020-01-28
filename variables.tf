@@ -33,7 +33,3 @@ variable "instances" {
     "conda_deep_learning_us_east_1" = "p2.xlarge"
   }
 }
-
-variable "personal_pc_ip" {
-  default = "set on command line"
-}
